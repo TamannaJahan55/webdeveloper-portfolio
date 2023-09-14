@@ -1,5 +1,3 @@
-FAQ
-
 Add at least 3 Project features
 
 1.Toast notifications
